@@ -1,0 +1,31 @@
+{
+  "idle_counter": {
+    "n_samples": 1266,
+    "n_changes": 30,
+    "median_update_ms": 99.93120899889618,
+    "power_W_range": [
+      37.213,
+      37.615
+    ]
+  },
+  "load_counter": {
+    "n_samples": 1312,
+    "n_changes": 30,
+    "median_update_ms": 99.96048302855343,
+    "power_W_range": [
+      190.403,
+      192.898
+    ]
+  },
+  "idle_mem_MB": 1581.7578125,
+  "ref_energy_J": {
+    "mean": 8.788766245411129,
+    "std": 0.5255343324390956,
+    "ci95": [
+      8.468731120422285,
+      9.090985330607536
+    ],
+    "ci_halfwidth_pct": 3.5400543876687327,
+    "window_s_mean": 0.16666692830622196
+  }
+}

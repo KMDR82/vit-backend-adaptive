@@ -1,0 +1,2 @@
+bucket,local_winner,global_static,margin_ms,margin_pct,S_cold_ms,S_warm_ms,T_cold,T_warm
+base/b1/r224,ort_cuda_fp16,ort_trt,4.388,11.0,41615,3464,9484,789
